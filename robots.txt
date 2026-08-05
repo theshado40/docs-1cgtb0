@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-amffrd.yoursingles.online/sitemap.xml
